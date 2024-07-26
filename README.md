@@ -2,7 +2,7 @@
 Trabalho de IoT - UFRJ - 2024.1
 Por Giulia Tafuri, Arick Jurdan, André Giron, Pedro Miller e Alice Ferreira
 
-➡️ Relatório
+➡️ [Relatório](https://drive.google.com/drive/folders/1DuhbcdEWK5diH0IidzkKM3a_WQTRcIrA?usp=sharing)
 
 ➡️ [Vídeo explicativo](https://www.youtube.com/watch?v=qHGadHZC_Dg)
 
