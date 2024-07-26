@@ -8,3 +8,6 @@ Por Giulia Tafuri, Arick Jurdan, André Giron, Pedro Miller e Alice Ferreira
 
 ➡️ [Slides](https://www.canva.com/design/DAGMAa753EM/lfN8P0dsr0NTrWz4UT1kfg/view?utm_content=DAGMAa753EM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+➡️ [Vídeo explicativo](https://www.canva.com/design/DAGMAa753EM/lfN8P0dsr0NTrWz4UT1kfg/view?utm_content=DAGMAa753EM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+
