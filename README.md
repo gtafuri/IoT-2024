@@ -1,5 +1,6 @@
 # Aplicação de projeto de aprimoramento do Manejo da Irrigação por Meio de Sensores Baseados em IoT
 Trabalho de IoT - UFRJ - 2024.1
+Por Giulia Tafuri, Arick Jurdan, André Giron, Pedro Miller e Alice Ferreira
 
 ➡️ Relatório
 
