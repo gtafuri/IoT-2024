@@ -2,7 +2,7 @@
 Trabalho de IoT - UFRJ - 2024.1
 Por Giulia Tafuri, Arick Jurdan, André Giron, Pedro Miller e Alice Ferreira
 
-➡️ [Relatório](https://file.notion.so/f/f/6aebcf2f-e083-4cb4-8a54-22df5da2676e/4dc20d42-4a96-4914-957c-5e2c19244198/Relatorio_IoT_20241.pdf?id=f378ce81-5d54-45d6-9e31-3e0682982541&table=block&spaceId=6aebcf2f-e083-4cb4-8a54-22df5da2676e&expirationTimestamp=1722110400000&signature=jYEmdUJ0X6nqHRUwOGSgFEtgzdCz_bAbzn2_CcwyHHU&downloadName=Relatorio_IoT_20241.pdf)
+➡️ [Relatório](https://file.notion.so/f/f/6aebcf2f-e083-4cb4-8a54-22df5da2676e/4dc20d42-4a96-4914-957c-5e2c19244198/Relatorio_IoT_20241.pdf?id=f378ce81-5d54-45d6-9e31-3e0682982541&table=block&spaceId=6aebcf2f-e083-4cb4-8a54-22df5da2676e&expirationTimestamp=1722470400000&signature=SKqEpAG0KzZ1ow0-4oaS5pjxxyx2nM_RKbPEWqnYT9U&downloadName=Relatorio_IoT_20241.pdf)
 
 ➡️ [Vídeo explicativo](https://www.youtube.com/watch?v=qHGadHZC_Dg)
 
